@@ -1,5 +1,5 @@
 {
-    "name": "kawashita86/aspect-mock",
+    "name": "codeception/aspect-mock",
     "description": "Experimental Mocking Framework powered by Aspects",
     "authors": [
         {
@@ -14,7 +14,7 @@
        },
     "require": {
         "php": ">=5.6.0",
-        "kawashita86/framework": "master",
+        "codeception/framework": "fix-psr",
         "symfony/finder": "~2.4|~3.0"
     },
     "require-dev": {
